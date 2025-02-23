@@ -1,0 +1,6 @@
+.manager {
+    background-color: cornsilk;
+    width: 50%;
+    height: 100%;
+    overflow: auto;
+}
